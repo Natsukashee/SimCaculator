@@ -1,0 +1,13 @@
+div{
+	margin: 0px auto;
+	text-align: center;
+}
+table{ background: #999 }
+td input{
+	width: 50px;
+	height: 50px;
+}
+input.p{
+	height: 20px;
+	width: 150px;
+}
